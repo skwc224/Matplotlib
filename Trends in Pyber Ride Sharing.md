@@ -1,0 +1,3 @@
+# Trends in Pyber Ride Sharing
+
+We see that Urban has the most Pyber riders and drivers among all the city types from the "Total Rides by City Type” and “Total Drivers by City Type” data. Therefore it makes sense that Urban also contributes the most to total fares, which we can see from the "Total Fares by City Type” data. On a whole, Urban has the most Pyber drivers with the lowest average fares whereas Rural has the fewest Pyber drivers with the highest average fares among all the city types based on the "Bubble Plot of Ride Sharing Data”.
