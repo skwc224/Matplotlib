@@ -1,3 +1,3 @@
 # Pyber
-Visualizing the data set with Python Matplotlib.
+Visualizing the company's complete recordset of rides with Python Matplotlib.
 - Build a Bubble plot and three Pie charts that showcase the relationship between key variables.
